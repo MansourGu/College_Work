@@ -1,0 +1,12 @@
+﻿  Epidemic.cpp
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(108): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(136): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+e:\c项目\数据结构课设\epidemic control\epidemic control\epidemic.cpp(115): warning C4715: “Cal_nearest_critical_cities_in_edges”: 不是所有的控件路径都返回值
+  Epidemic control.vcxproj -> E:\C项目\数据结构课设\Epidemic control\Debug\Epidemic control.exe
