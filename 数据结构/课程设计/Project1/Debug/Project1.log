@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\c项目\数据结构课设\project1\project1\源.cpp(177): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\c项目\数据结构课设\project1\project1\源.cpp(152): warning C4715: “findl”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> E:\C项目\数据结构课设\Project1\Debug\Project1.exe
