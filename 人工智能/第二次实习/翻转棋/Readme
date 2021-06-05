@@ -1,1 +1,4 @@
-1
+图形化界面是有easyx库实现的
+easyx库安装地址：https://easyx.cn/download
+若要认为每一步AI的计算时间过长 可以在types.h 里面修改TIME_LIMITATION 默认为5000ms（5s）
+计算时间越长这一步走的越好
